@@ -1,4 +1,4 @@
-# Portif-lio-
+# Portifolio
 # README - Site Portfólio com Menu Hambúrguer
 
 Este documento descreve os detalhes do projeto de um site portfólio pessoal que inclui um menu hambúrguer responsivo. O objetivo é exibir informações sobre experiências, projetos e habilidades de maneira atrativa e acessível em diferentes dispositivos.
