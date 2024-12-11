@@ -97,6 +97,7 @@ Este documento descreve os detalhes do projeto de um site portfólio pessoal que
     		<a href="#" class="btn">Saiba mais</a>
     	</div>
 
+![image](https://github.com/user-attachments/assets/759d50ff-129a-469b-862c-d63401f46e76)
 
-![image](https://github.com/user-attachments/assets/d36d9fa7-0762-4185-8c9a-2ffdaa45590a)
-![image](https://github.com/user-attachments/assets/6a1caf2d-7785-4729-9ded-e8e7215006fa)
+![image](https://github.com/user-attachments/assets/2b155a2a-58b6-45db-b167-1fd4e298d5b0)
+
