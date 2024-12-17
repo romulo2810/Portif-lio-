@@ -33,6 +33,8 @@ Este projeto é um site portfólio pessoal com um menu hambúrguer responsivo, p
 - **Cores e Estilo:** Ajuste os arquivos CSS para alterar cores, fontes e animações.
 - **Conteúdo:** Atualize o `index.html` com suas informações.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a9bf8d75-e676-4d75-a23b-e3ed236323af)
+![image](https://github.com/user-attachments/assets/b195f07d-6a42-4f1b-bf91-5b1ac0c8a705)
+
 
 
